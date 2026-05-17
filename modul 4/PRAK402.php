@@ -50,6 +50,7 @@ $mahasiswa = [
 <style>
     th{
         padding: 5px 10px;
+        background-color: darkgrey;
     }
 </style>
 </html>

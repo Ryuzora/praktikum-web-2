@@ -56,7 +56,6 @@ $mahasiswa = [
     </style>
 </head>
 <body>
-<h2>Hasil Output Data Mahasiswa</h2>
 <table>
     <thead>
     <tr>

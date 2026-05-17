@@ -20,7 +20,7 @@ if(isset($_POST['cetak'])){
             echo "<tr>";
             for ($j=0; $j < $lebar; $j++) {
                 echo "<td style='width: 30px; height: 30px; text-align: center'>";
-                echo $item[$j+$i*4];
+                echo $item[$j+$i*$lebar];
                 echo "</td>";
             }
             echo "</tr>";
